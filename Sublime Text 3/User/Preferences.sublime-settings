@@ -1,5 +1,12 @@
 {
-	"ignored_packages":
-	[
-	]
+	"ignored_packages": [],
+
+	// The number of spaces a tab is considered equal to
+    "tab_size": 4,
+
+    // Set to true to insert spaces when tab is pressed
+    "translate_tabs_to_spaces": true,
+
+    // Sublime can be smart and try to figure out the file's tab size
+    "detect_indentation": false
 }
