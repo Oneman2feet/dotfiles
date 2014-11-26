@@ -8,5 +8,9 @@
     "translate_tabs_to_spaces": true,
 
     // Sublime can be smart and try to figure out the file's tab size
-    "detect_indentation": false
+    "detect_indentation": false,
+
+    // Specify default font styling
+    "font_face": "Anonymous Pro",
+    "font_size": 14
 }
