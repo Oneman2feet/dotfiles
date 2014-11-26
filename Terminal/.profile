@@ -1,6 +1,6 @@
 # command prompt styling
-PROMPTCOL="\e[0;35m"
-COMMANDCOL="\e[0;38m"
+PROMPTCOL="\e[1;35m"
+COMMANDCOL="\e[1;37m"
 ENDCOLOR="\e[0m"
 export PS1="$PROMPTCOL\W \$$ENDCOL $COMMANDCOL"
 
