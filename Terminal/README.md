@@ -19,6 +19,6 @@ Terminal
 
 ## iTerm 2 Settings
 
-1. Keys -> Hotkey -> activate "Show/hide iTerm2 with a system-wide hotkey"
+1. Keys -> Hotkey -> activate "Show/hide iTerm2 with a system-wide hotkey" and "Hotkey toggles a dedicated window with profile"
 
 2. Add iTerm2 to startup applications
