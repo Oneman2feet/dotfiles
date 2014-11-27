@@ -1,8 +1,5 @@
 # command prompt styling
-PROMPTCOL="\e[1;35m"
-COMMANDCOL="\e[1;37m"
-ENDCOLOR="\e[0m"
-export PS1="$PROMPTCOL\W \$$ENDCOL $COMMANDCOL"
+export PS1="\W \$ "
 
 # color ls and la output
 alias ls="ls -G"
