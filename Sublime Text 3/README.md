@@ -6,3 +6,5 @@ Sublime Text 3
 2. ```rm -rf User```
 
 3. ```ln -s ~/dotfiles/Sublime\ Text\ 3/User User```
+
+4. Install Skim for LaTeX
