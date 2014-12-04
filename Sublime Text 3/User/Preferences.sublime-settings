@@ -2,7 +2,6 @@
     // styling
     "theme": "Seti.sublime-theme",
     "color_scheme": "Packages/User/Seti (SL).tmTheme",
-
     "font_face": "Anonymous Pro",
     "font_size": 14,
 
@@ -11,6 +10,11 @@
     "detect_indentation": false,
     "translate_tabs_to_spaces": true,
     "tab_size": 4,
+
+    // visual tweaks
+    "highlight_line": true,
+    "caret_style": "phase",
+    "fade_fold_buttons": false,
 
     // packages
     "ignored_packages": []
