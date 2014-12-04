@@ -1,12 +1,17 @@
 {
-	"color_scheme": "Packages/User/Seti (SL).tmTheme",
-	"detect_indentation": false,
+	// styling
+    "theme": "Seti.sublime-theme",
+    "color_scheme": "Packages/User/Seti (SL).tmTheme",
+
 	"font_face": "Anonymous Pro",
-	"font_size": 14,
-	"ignored_packages":
-	[
-	],
-	"tab_size": 4,
-	"theme": "Seti.sublime-theme",
-	"translate_tabs_to_spaces": true
+    "font_size": 14,
+
+    // spacing
+    "draw_white_space": "all",
+    "detect_indentation": false,
+    "translate_tabs_to_spaces": true,
+    "tab_size": 4,
+	
+    // packages
+	"ignored_packages": []
 }
