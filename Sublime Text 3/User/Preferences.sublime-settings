@@ -1,21 +1,17 @@
 {
-    // styling
-    "theme": "Seti.sublime-theme",
-    "color_scheme": "Packages/User/Seti (SL).tmTheme",
-    "font_face": "Anonymous Pro",
-    "font_size": 14,
-
-    // spacing
-    "draw_white_space": "all",
-    "detect_indentation": false,
-    "translate_tabs_to_spaces": true,
-    "tab_size": 4,
-
-    // visual tweaks
-    "highlight_line": true,
-    "caret_style": "phase",
-    "fade_fold_buttons": false,
-
-    // packages
-    "ignored_packages": []
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/Seti (SL).tmTheme",
+	"detect_indentation": false,
+	"draw_white_space": "all",
+	"fade_fold_buttons": false,
+	"font_face": "Anonymous Pro",
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"tab_size": 4,
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"vintageous_use_ctrl_keys": true
 }
