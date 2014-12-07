@@ -1,0 +1,3 @@
+# allow repeating alphanumeric keys
+# rather than "press and hold" for special characters
+defaults write -g ApplePressAndHoldEnabled -bool false
