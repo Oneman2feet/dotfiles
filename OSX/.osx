@@ -1,3 +1,12 @@
 # allow repeating alphanumeric keys
 # rather than "press and hold" for special characters
 defaults write -g ApplePressAndHoldEnabled -bool false
+
+# Set a really fast key repeat.
+defaults write NSGlobalDomain KeyRepeat -int 0
+
+# Always open everything in Finder's column view.
+defaults write com.apple.Finder FXPreferredViewStyle clmv
+
+# Show the ~/Library folder.
+chflags nohidden ~/Library
