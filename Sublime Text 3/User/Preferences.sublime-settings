@@ -4,7 +4,6 @@
 	"color_scheme": "Packages/User/Seti (SL).tmTheme",
 	"detect_indentation": false,
 	"draw_white_space": "all",
-    "word_wrap": "true",
 	"fade_fold_buttons": false,
 	"font_face": "Anonymous Pro",
 	"font_size": 14,
@@ -15,5 +14,6 @@
 	"tab_size": 4,
 	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"vintageous_use_ctrl_keys": true
+	"vintageous_use_ctrl_keys": true,
+	"word_wrap": "true"
 }
