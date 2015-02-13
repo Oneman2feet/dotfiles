@@ -15,5 +15,5 @@
 	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"vintageous_use_ctrl_keys": true,
-	"word_wrap": "true"
+	"word_wrap": true
 }
