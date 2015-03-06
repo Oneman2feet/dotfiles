@@ -11,6 +11,7 @@
 	"ignored_packages":
 	[
 	],
+	"show_panel_on_build": false,
 	"tab_size": 4,
 	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
