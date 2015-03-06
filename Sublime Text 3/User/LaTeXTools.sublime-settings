@@ -16,9 +16,9 @@
 
 
 	// Keep focus on Sublime Text after building (true) or switch to PDF viewer (false)
-	"keep_focus": true,
+	"keep_focus": false,
 	// Sync PDF to current editor position after building (true) or not 
-	"forward_sync": true,
+	"forward_sync": false,
 
 
 // ------------------------------------------------------------------
