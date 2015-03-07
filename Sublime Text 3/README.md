@@ -8,3 +8,5 @@ Sublime Text 3
 3. ```ln -s ~/dotfiles/Sublime\ Text\ 3/User User```
 
 4. Install Skim for LaTeX
+
+5. In ```makePDF.py``` of LaTeXTools, change ```self.window.run_command("show_panel", {"panel": "output.exec"})``` to ```self.window.run_command("hide_panel", {"panel": "output.exec"})```

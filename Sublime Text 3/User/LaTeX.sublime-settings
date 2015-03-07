@@ -1,3 +1,4 @@
 {
-    "spell_check": true
+    "spell_check": true,
+    "show_panel_on_build": false
 }
