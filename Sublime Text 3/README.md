@@ -9,5 +9,6 @@ Sublime Text 3
 
 4. Install Skim for LaTeX
 
-5. In ```makePDF.py``` of LaTeXTools, comment out the line ```self.window.run_command("show_panel", {"panel": "output.exec"})``` and add the case ```else: self.window.run_command("show_panel", {"panel": "output.exec"})``` to the end of 
-_finish```
+5. In ```makePDF.py``` of LaTeXTools:
+    - Find the line ```self.window.run_command("show_panel", {"panel": "output.exec"})``` and change ```show_panel``` to ```hide_panel```.
+    - In ```do_finish``` add the case ```else: self.window.run_command("show_panel", {"panel": "output.exec"})``` to the end.
