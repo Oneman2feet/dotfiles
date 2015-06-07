@@ -3,3 +3,5 @@
 	email = Oneman2feet@gmail.com
 [push]
 	default = current
+[pull]
+	default = current
