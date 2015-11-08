@@ -1,5 +1,7 @@
 {
   "show_log_panel_on": ["errors", "badboxes"],
   "keep_focus": false,
+  "forward_sync": false,
+  "reverse_sync": false,
   "typeset_on_save": true
 }
