@@ -1,0 +1,5 @@
+{
+  "show_log_panel_on": ["errors", "badboxes"],
+  "keep_focus": false,
+  "typeset_on_save": true
+}
