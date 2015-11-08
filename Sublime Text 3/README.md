@@ -12,3 +12,4 @@ Sublime Text 3
 5. In ```makePDF.py``` of LaTeXTools:
     - Find the line ```self.window.run_command("show_panel", {"panel": "output.exec"})``` and change ```show_panel``` to ```hide_panel```.
     - In ```do_finish``` add the case ```else: self.window.run_command("show_panel", {"panel": "output.exec"})``` to the end.
+    - Remember to convert indentation to tabs!
