@@ -1,7 +1,7 @@
 dotfiles
 ========
 
-Misc. configuration files and documentation
+My configuration files and supporting documentation
 
 ## Random Setup and Tweaks
 
