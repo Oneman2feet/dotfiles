@@ -1,11 +1,8 @@
 {
-	"added_words":
-	[
-		"bipyramidal"
-	],
 	"caret_extra_width": 0,
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/Seti (SL).tmTheme",
+	"theme": "Seti_orig.sublime-theme",
 	"detect_indentation": false,
 	"draw_white_space": "all",
 	"fade_fold_buttons": false,
@@ -18,7 +15,6 @@
 	],
 	"show_panel_on_build": false,
 	"tab_size": 2,
-	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"vintageous_use_ctrl_keys": true,
 	"word_wrap": true
