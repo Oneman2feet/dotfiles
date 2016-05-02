@@ -15,8 +15,10 @@ For example, some useful ones I use are:
 
 | Name | Keyword | URL |
 | ---- | ------- | --- |
+| Chai Notes | chai | https://trello.com/b/fyIyWFdf/chai-notes |
 | Chrome Settings | settings | ```chrome://settings``` |
 | Cornell People Search | people | https://www.cornell.edu/search/?tab=people |
+| Dotfiles | dot | https://github.com/Oneman2feet/dotfiles |
 | Evil Plan | evil | https://docs.google.com/spreadsheets/d/1jY4NFPAY6sa0CjCbLijwQlutuhwSOR3xr2QpjQd-30w/edit#gid=0 |
 | Google Calendar | cal | https://www.google.com/calendar/ |
 | GroupMe | group | https://app.groupme.com/chats |
