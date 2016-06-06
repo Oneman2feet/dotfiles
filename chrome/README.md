@@ -27,3 +27,4 @@ For example, some useful ones I use are:
 | Pocket | pocket | https://getpocket.com/a/queue/ |
 | When to eat | eat | http://living.sas.cornell.edu/dine/whentoeat/ |
 | YouTube Subscriptions | you | https://www.youtube.com/feed/subscriptions |
+| zachary/ | ~ | file:///Users/zachary/ |
