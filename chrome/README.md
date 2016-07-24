@@ -26,6 +26,7 @@ For example, some useful ones I use are:
 | Homework Trello | home | https://trello.com/b/sTKxm20Q/homework |
 | Pinterest | pin | https://www.pinterest.com/oneman2feet/ |
 | Pocket | pocket | https://getpocket.com/a/queue/ |
+| Swipes | swipes | https://web.swipesapp.com/#list/todo |
 | When to eat | eat | http://living.sas.cornell.edu/dine/whentoeat/ |
 | YouTube Subscriptions | you | https://www.youtube.com/feed/subscriptions |
 | zachary/ | ~ | ```file:///Users/zachary/``` |
