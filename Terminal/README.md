@@ -22,3 +22,5 @@ Terminal
 1. Keys -> Hotkey -> activate "Show/hide iTerm2 with a system-wide hotkey"
 
 2. Add iTerm2 to startup applications
+
+3. Preferences -> Profiles -> Terminal -> check "Unlimited scrollback" under 'Scrollback Buffer'
