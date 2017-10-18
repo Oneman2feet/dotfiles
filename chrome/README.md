@@ -21,6 +21,7 @@ For example, some useful ones I use are:
 | Dotfiles | dot | https://github.com/Oneman2feet/dotfiles |
 | Extensions | ext | ```chrome://extensions``` |
 | Evil Plan | evil | https://docs.google.com/spreadsheets/d/1jY4NFPAY6sa0CjCbLijwQlutuhwSOR3xr2QpjQd-30w/edit#gid=0 |
+| Good Mythical Morning | gmm | https://www.youtube.com/user/rhettandlink2/videos |
 | Google Calendar | cal | https://www.google.com/calendar/ |
 | GroupMe | group | https://app.groupme.com/chats |
 | Homework Trello | home | https://trello.com/b/sTKxm20Q/homework |
