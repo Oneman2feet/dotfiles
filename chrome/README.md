@@ -15,6 +15,7 @@ For example, some useful ones I use are:
 
 | Name | Keyword | URL |
 | ---- | ------- | --- |
+| Bookmarks | book | chrome://bookmarks/ |
 | Chai Notes | chai | https://trello.com/b/fyIyWFdf/chai-notes |
 | Chrome Settings | settings | ```chrome://settings``` |
 | Cornell People Search | people | https://www.cornell.edu/search/?tab=people |
