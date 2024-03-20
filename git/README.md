@@ -1,6 +1,13 @@
-Git Config
-==========
+Git
+===
 
-## Setup
+## Git Config Setup
 
-1. ```ln -s ~/dotfiles/git/.gitconfig ~/.gitconfig```
+```ln -s ~/dotfiles/git/.gitconfig ~/.gitconfig```
+
+## Helpful Commands
+
+If you have a tracked file that you want to ignore changes to
+`git update-index --assume-unchanged <filename>`
+if you want to start tracking changes again
+`git update-index --no-assume-unchanged <filename>`
